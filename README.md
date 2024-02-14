@@ -1,4 +1,4 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+[![Stand With Palestine](https://medium.com/spark-the-median/the-fall-of-all-walls-daa34707de4e)]([https://stand-with-ukraine.pp.ua](https://medium.com/spark-the-median/the-fall-of-all-walls-daa34707de4e))
 
 # NestJS, react, react-native & react-native-web community packages
 
